@@ -1,4 +1,4 @@
-const baseUrl ="https://flipkartt-rest-server.herokuapp.com";
+const baseUrl ="https://flipkart-clone-server-app.herokuapp.com/";
 //const baseUrl = "http://localhost:8080";
 
 export const api = `${baseUrl}/api`;
